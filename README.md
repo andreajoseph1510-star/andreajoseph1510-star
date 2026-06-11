@@ -1,4 +1,6 @@
-(https://github.com/user-attachments/files/28839230/README.2.md)<div align="center">
+<div align="center">
+<img src="<img src="PASTE_URL_HERE" width="100%"/>
+</div>
 
 
 
