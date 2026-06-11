@@ -1,7 +1,6 @@
-[README (2).md](https://github.com/user-attachments/files/28839230/README.2.md)<div align="center">
+(https://github.com/user-attachments/files/28839230/README.2.md)<div align="center">
 
-<h1>Hi, I'm Ann 👋</h1>
-<h3>AI & Data Science Undergrad · Aspiring Data Scientist · Chennai, India</h3>
+
 
 <br/>
 
@@ -9,19 +8,11 @@
 > *I like clean code, good datasets, and problems that make me think.*
 
 <br/>
+<div>
 
-</div>
 
 ---
 
-## 🙋‍♀️ About Me
-
-- 🎓 B.Tech AI & Data Science @ **SNU Chennai**
-- 🌱 Currently learning **A/B Testing · Causal Inference · Cloud ML**
-- 🚀 Building toward a **Data Science Internship** at a top-tier tech company
-- 🧠 Passionate about **Explainable ML**, **Data Storytelling**, and **Problem Solving**
-- 🔧 I build things, break things, and learn from both
-- 📍 Chennai, India
 
 ---
 
@@ -47,17 +38,11 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-| 🔬 Project | 📌 Description | 🧰 Stack |
-|:---|:---|:---|
-| [**SenseChurn**](https://github.com/YOUR_USERNAME/SenseChurn) | Full-stack churn prediction app with explainable ML | XGBoost · SHAP · Firebase · Plotly · Claude API |
-| **A/B Testing Framework** *(in progress)* | Simulate & analyze A/B experiments end-to-end | Python · Statistics · React |
 
 ---
 
