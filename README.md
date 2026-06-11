@@ -1,18 +1,4 @@
-<div align="center">
-<img src="<img src="PASTE_URL_HERE" width="100%"/>
-</div>
-
-
-
-<br/>
-
-> *Undergraduate in AI & Data Science.*
-> *I like clean code, good datasets, and problems that make me think.*
-
-<br/>
 <div>
-
-
 ---
 
 
@@ -40,7 +26,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
