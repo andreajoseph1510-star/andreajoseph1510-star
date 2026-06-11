@@ -1,15 +1,14 @@
-<div align="center">
+[README (2).md](https://github.com/user-attachments/files/28839230/README.2.md)<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Ann%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Undergrad%20|%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=18" />
+<h1>Hi, I'm Ann 👋</h1>
+<h3>AI & Data Science Undergrad · Aspiring Data Scientist · Chennai, India</h3>
 
-</div>
+<br/>
 
-<div align="center">
+> *Undergraduate in AI & Data Science.*
+> *I like clean code, good datasets, and problems that make me think.*
 
-```
-Undergraduate in AI & Data Science.
-I like clean code, good datasets, and problems that make me think.
-```
+<br/>
 
 </div>
 
@@ -33,7 +32,7 @@ I like clean code, good datasets, and problems that make me think.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **ML & Data Science**
 
@@ -48,7 +47,7 @@ I like clean code, good datasets, and problems that make me think.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -57,8 +56,8 @@ I like clean code, good datasets, and problems that make me think.
 
 | 🔬 Project | 📌 Description | 🧰 Stack |
 |:---|:---|:---|
-| [**SenseChurn**]() | Full-stack churn prediction app with explainable ML | XGBoost · SHAP · Firebase · Plotly · Claude API |
-
+| [**SenseChurn**](https://github.com/YOUR_USERNAME/SenseChurn) | Full-stack churn prediction app with explainable ML | XGBoost · SHAP · Firebase · Plotly · Claude API |
+| **A/B Testing Framework** *(in progress)* | Simulate & analyze A/B experiments end-to-end | Python · Statistics · React |
 
 ---
 
@@ -66,11 +65,11 @@ I like clean code, good datasets, and problems that make me think.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreajoseph1510-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Streak Stats](https://streak-stats.demolab.com?user=andreajoseph1510-star&theme=tokyonight&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreajoseph1510-star&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -88,6 +87,9 @@ I like clean code, good datasets, and problems that make me think.
 
 *Always learning. Always building.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
-
 </div>
+
+
+
+
+
